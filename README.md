@@ -1,8 +1,8 @@
 # photo_sharing_app
 
-A new Flutter project.
+Thieu Minh Thinh - 17021340
 
-## Getting Started
+## Description
 
 This project is a starting point for a Flutter application.
 
