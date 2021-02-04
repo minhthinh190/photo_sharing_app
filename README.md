@@ -1,4 +1,4 @@
-# PhotoSharingPpp
+# PhotoSharingApp
 
 Thieu Minh Thinh - 17021340
 
