@@ -5,3 +5,11 @@
 ## Description
 
 Image data taken from https://www.pexels.com/api/ API. 
+
+## Screenshots
+
+<div>
+  <img src='./screenshots/sreen_1.png' width=240>
+  <img src='./screenshots/sreen_2.png' width=240>
+  <img src='./screenshots/sreen_3.png' width=240>
+</div>
