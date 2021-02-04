@@ -9,8 +9,8 @@ Image data taken from https://www.pexels.com/api/ API.
 ## Screenshots
 
 <div>
-  <img src='./screenshots/screen_1.png' width=250>
-  <img src='./screenshots/screen_2.png' width=250>
-  <img src='./screenshots/screen_4.png' width=250>
-  <img src='./screenshots/screen_5.png' width=250>
+  <img src='./screenshots/screen_1.png' width=245>
+  <img src='./screenshots/screen_2.png' width=245>
+  <img src='./screenshots/screen_4.png' width=245>
+  <img src='./screenshots/screen_5.png' width=245>
 </div>
