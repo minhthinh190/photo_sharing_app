@@ -1,6 +1,6 @@
 # PhotoSharingApp
 
-A Flutter app that helps you to view and download free photos on the internet.
+> A Flutter app that helps you to view and download free photos on the internet.
 
 ## Description
 
