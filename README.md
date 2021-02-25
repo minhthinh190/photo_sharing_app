@@ -4,7 +4,7 @@
 
 ## Description
 
-This app is the personal project for 'Mobile Cloud Computing' class.
+This app is the personal project for 'Mobile Cloud Computing' class. <br/>
 Image data taken from https://www.pexels.com/api/ API. 
 
 ## Screenshots
